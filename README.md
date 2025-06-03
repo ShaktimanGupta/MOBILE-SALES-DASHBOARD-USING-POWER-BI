@@ -1,4 +1,5 @@
 📊 Mobile Phones Sales Dashboard
+
 This project is a comprehensive Power BI dashboard that visualizes and analyzes sales performance in the mobile phones sector. The dashboard provides actionable insights into trends, top-performing products, regional performance, and other key metrics relevant to decision-makers and analysts.
 
 🔍 Project Overview
@@ -17,10 +18,13 @@ Interactive visual filters to explore specific regions, products, and time perio
 This dashboard was created as part of a Power BI internship at CodTech, fulfilling multiple internship requirements such as combining data from different sources, performing advanced analysis, and visualizing real-time or near-real-time insights.
 
 📁 Files Included
+
 MOBIE PHONES SALES DASHBOARD.pbix
+
 The main Power BI project file that contains all the data modeling, visualizations, and dashboards.
 
 ⚙️ Features
+
 Dynamic filters and slicers for regions, models, and time periods
 
 Line charts to display monthly/quarterly/yearly sales trends
@@ -33,16 +37,8 @@ Cards for quick insights on Total Sales, Total Units Sold, Profit, and Growth
 
 Map for regional sales density
 
-📌 Internship Task Coverage
-This dashboard covers the following tasks from the Power BI internship at CodTech:
-
-✅ Sales Dashboard – Trend, top products, regional performance
-
-✅ Data Integration – Data pulled from multiple sources (e.g., Excel & SQL Server)
-
-✅ Real-Time/Near-Real-Time Dashboard – Data designed for updatable insights
-
 🛠️ How to Use
+
 Open the .pbix file using Power BI Desktop
 
 Refresh the data if source files are connected and available
@@ -69,8 +65,11 @@ Microsoft Excel
 For questions or feedback:
 
 Name: Shaktiman Gupta
+
 LinkedIn:(https://www.linkedin.com/in/its-shaktiman-gupta)
+
 Email: its.shaktiman.gupta@gmail.com
+
 GitHub: https://github.com/ShaktimanGupta
 
 ✅ License
